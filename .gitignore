@@ -7,3 +7,4 @@ graft/
 .mypy_cache/
 .ipynb_checkpoints/
 *.pdf
+tmp/
